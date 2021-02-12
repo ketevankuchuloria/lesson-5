@@ -1,0 +1,85 @@
+.section1 {
+	width: 1116px;
+	margin:0 auto;
+}
+
+
+.food1 {
+	width: 536px;
+	float:left;
+	background: #F8F8F8;
+
+}
+
+.image1 {
+	float: left;
+
+}
+
+.text {
+	float:right;
+	width: 260px;
+	margin-right: 93px;
+	margin-top: 16px; 
+}
+
+.dessert1 {
+	float:right;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+
+.clear {
+	clear: both;
+}
+
+.dessert2 {
+	float: left;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+
+.food2 {
+	float: right;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.text2 {
+	margin-top: 16px;
+	float: right;
+	width: 260px;
+	margin-right: 93px;
+
+}
+
+.h5 {
+	font-weight: bolder;
+	color: #000000;
+}
+
+.h6 {
+	color:#5863F8;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 2px; 
+}
+
+.restaurant-h6 {
+	margin-top: 16px; 
+	margin-bottom: 5px;
+	color:#5863F8;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.menu-h5 {
+	font font-weight: bold;
+	color: #000000;
+	font-size: 42px;
+	margin-bottom: 61px;
+
+}
+
+.bottombox {
+	margin-top: 16px;
+}
